@@ -132,7 +132,7 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:plugin
 
 # ZeroMQ API
 
-This textual documentation describes how _supstream_ externally talk with IPC ZeroMQ
+This textual documentation describes how Supstream dialogues externally with ZeroMQ IPCs
 
 - codes :
     - 0 success
